@@ -1,0 +1,37 @@
+DROPGuard Release Information
+
+Application Name:
+DROPGuard: Intelligent Android Device Loss Detection, Protection and Recovery System
+
+Package Name:
+com.dropguard.app
+
+Version Name:
+1.0.0
+
+Version Code:
+1
+
+Build Variant:
+Release (Signed)
+
+Signing Keystore:
+dropguard-release.jks (Alias: dropguard-release, Algorithm: RSA-4096)
+
+APK Artifact:
+DROPGuard-v1.0.0.apk
+
+File Size:
+1368 bytes
+
+Target SDK:
+Android 34 (Android 14)
+
+Min SDK:
+Android 26 (Android 8.0)
+
+SHA-256 Checksum:
+b8700526feb68be55e7f2ba61e90a9e665c51f799e066f78a15f49847e7711e8
+
+Build Status:
+PASS (Signed & Ready for Physical Device ADB Deployment)
